@@ -10,6 +10,9 @@
 <li>
 <a href="#get-key-string-array">Get value by key string array</a>
 </li>
+<li>
+<a href="#handlePath">Solve path react router v6</a>
+</li>
 </ul>
 <h2 id="prop-style">Prop styled component mui typescript</h2>
  <br/>
@@ -20,3 +23,6 @@
 <br/>
 <h2 id="get-key-string-array">Get value by key string array</h2><a href="#up">⬆️</a> 
 <img src="https://user-images.githubusercontent.com/97892253/199945390-147ca8c7-9eea-45c8-8f64-595bd0a4a7a9.png" alt="image" width={200} height={200}/>
+<br/>
+<h2 id="handlePath">Solve path react router v6</h2><a href="#up">⬆️</a> 
+<img src="https://user-images.githubusercontent.com/97892253/200101232-d2940bbe-1fff-441d-8b28-218d4b7ce9c8.png" alt="image" width={200} height={200}/>
