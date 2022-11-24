@@ -1,4 +1,5 @@
-# <strong id="up">Refer-Quick-Code</strong>
+## <strong id="up">Refer-Quick-Code</strong>
+#React
 <br/>
 <ul>
 <li>
@@ -17,6 +18,13 @@
 <a href="#classCombine">Class combine type and function</a>
 </li>
 </ul>
+#Golang
+<br/>
+<ul>
+<li>
+<a href="#typeTGo">Type T in Go</a>
+</li>
+</ul>
 <h2 id="prop-style">Prop styled component mui typescript</h2>
  <br/>
 <img src="https://user-images.githubusercontent.com/97892253/197729845-0f7b4a51-12af-4b4c-86ec-2ac2bf68c68b.png" alt="image" width={200} height={200}/>
@@ -31,3 +39,7 @@
 <img src="https://user-images.githubusercontent.com/97892253/200101232-d2940bbe-1fff-441d-8b28-218d4b7ce9c8.png" alt="image" width={200} height={200}/>
 <h2 id="classCombine">Class combine type and function</h2><a href="#up">⬆️</a> 
 <img src="https://user-images.githubusercontent.com/97892253/202183617-6a8859ff-c760-4f08-9f13-ca50190c0b36.png" alt="image" width={200} height={200}/>
+<br/>
+<strong>---------------------------------------------------------------------------------------------------------------------------------------------</strong>
+<h2 id="typeTGo">Type T in Go</h2><a href="#up">⬆️</a> 
+<img src="https://user-images.githubusercontent.com/97892253/203666154-b492dd4d-fd3d-4a3c-9516-0a4843468b92.png" alt="image" width={200} height={200}/>
