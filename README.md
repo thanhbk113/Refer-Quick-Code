@@ -3,6 +3,9 @@
 <br/>
 <ul>
 <li>
+<a href="#wait-time">Wait time await (ex:2000ms)</a>
+</li>
+<li>
 <a href="#prop-style">Prop styled component mui typescript</a>
 </li>
  <li>
@@ -25,6 +28,8 @@
 <a href="#typeTGo">Type T in Go</a>
 </li>
 </ul>
+<h2 id="wait-time">Wait time await (ex:2000ms)</h2><a href="#up">⬆️</a> 
+<img src="https://user-images.githubusercontent.com/97892253/206338167-ed3094a5-64e5-4164-b576-fcadbafea27c.png" alt="image" width={200} height={200}/>
 <h2 id="prop-style">Prop styled component mui typescript</h2>
  <br/>
 <img src="https://user-images.githubusercontent.com/97892253/197729845-0f7b4a51-12af-4b4c-86ec-2ac2bf68c68b.png" alt="image" width={200} height={200}/>
@@ -43,3 +48,4 @@
 <strong>---------------------------------------------------------------------------------------------------------------------------------------------</strong>
 <h2 id="typeTGo">Type T in Go</h2><a href="#up">⬆️</a> 
 <img src="https://user-images.githubusercontent.com/97892253/203666154-b492dd4d-fd3d-4a3c-9516-0a4843468b92.png" alt="image" width={200} height={200}/>
+
