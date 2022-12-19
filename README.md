@@ -20,6 +20,9 @@
 <li>
 <a href="#classCombine">Class combine type and function</a>
 </li>
+<li>
+<a href="#breakline">Break line when text too long</a>
+</li>
 </ul>
 #Golang
 <br/>
@@ -45,7 +48,10 @@
 <h2 id="classCombine">Class combine type and function</h2><a href="#up">⬆️</a> 
 <img src="https://user-images.githubusercontent.com/97892253/202183617-6a8859ff-c760-4f08-9f13-ca50190c0b36.png" alt="image" width={200} height={200}/>
 <br/>
+<h2 id="breakline">Break line when text too long</h2><a href="#up">⬆️</a> 
+<img src="https://user-images.githubusercontent.com/97892253/208369837-93058a9b-de11-4329-8e03-ec7d9104fc15.png" alt="image" width={200} height={200}/>
 <strong>---------------------------------------------------------------------------------------------------------------------------------------------</strong>
 <h2 id="typeTGo">Type T in Go</h2><a href="#up">⬆️</a> 
 <img src="https://user-images.githubusercontent.com/97892253/203666154-b492dd4d-fd3d-4a3c-9516-0a4843468b92.png" alt="image" width={200} height={200}/>
+
 
