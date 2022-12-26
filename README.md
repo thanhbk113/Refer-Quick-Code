@@ -29,6 +29,13 @@
 <ul>
 <li>
 <a href="#typeTGo">Type T in Go</a>
+</ul>
+<br/>
+#Next
+<ul>
+</li>
+<li>
+<a href="#quill-next">Import react quill in next js ssr=false</a>
 </li>
 </ul>
 <h2 id="wait-time">Wait time await (ex:2000ms)</h2><a href="#up">⬆️</a> 
@@ -53,5 +60,7 @@
 <strong>---------------------------------------------------------------------------------------------------------------------------------------------</strong>
 <h2 id="typeTGo">Type T in Go</h2><a href="#up">⬆️</a> 
 <img src="https://user-images.githubusercontent.com/97892253/203666154-b492dd4d-fd3d-4a3c-9516-0a4843468b92.png" alt="image" width={200} height={200}/>
-
+<strong>---------------------------------------------------------------------------------------------------------------------------------------------</strong>
+<h2 id="quill-next">mport react quill in next js ssr=false</h2><a href="#up">⬆️</a> 
+<img src="https://user-images.githubusercontent.com/97892253/209491169-2f2d063a-a887-4559-ac9d-e7360590d770.png" alt="image" width={200} height={200}/>
 
