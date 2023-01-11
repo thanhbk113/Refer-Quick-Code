@@ -25,7 +25,7 @@
 <a href="#breakline">Break line when text too long</a>
 </li>
 <li>
-<a href="#toggle">Toggle any position chil of parent click</a>
+<a href="#toggle">Toggle any position child of parent click</a>
 </li>
 </ul>
 #Golang
@@ -68,7 +68,7 @@
 <br/>
 <h2 id="breakline">Break line when text too long</h2><a href="#up">⬆️</a> 
 <img src="https://user-images.githubusercontent.com/97892253/208369837-93058a9b-de11-4329-8e03-ec7d9104fc15.png" alt="image" width={200} height={200}/>
-<h2 id="toggle">Toggle any position chil of parent click</h2><a href="#up">⬆️</a> 
+<h2 id="toggle">Toggle any position child of parent click</h2><a href="#up">⬆️</a> 
 <img src="https://user-images.githubusercontent.com/97892253/210087118-20782374-6605-4457-85db-3e96c020e828.png" alt="image" width={200} height={200}/>
 <strong>---------------------------------------------------------------------------------------------------------------------------------------------</strong>
 <h2 id="typeTGo">Type T in Go</h2><a href="#up">⬆️</a> 
