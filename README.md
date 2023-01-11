@@ -42,6 +42,13 @@
 <a href="#quill-next">Import react quill in next js ssr=false</a>
 </li>
 </ul>
+#Git Tips
+<br/>
+<ul>
+<li>
+<a href="#stash">Git stash before pull save your code</a>
+</ul>
+<br/>
 <h2 id="wait-time">Wait time await (ex:2000ms)</h2><a href="#up">⬆️</a> 
 <img src="https://user-images.githubusercontent.com/97892253/206338167-ed3094a5-64e5-4164-b576-fcadbafea27c.png" alt="image" width={200} height={200}/>
 <h2 id="prop-style">Prop styled component mui typescript</h2>
@@ -69,4 +76,21 @@
 <strong>---------------------------------------------------------------------------------------------------------------------------------------------</strong>
 <h2 id="quill-next">Import react quill in next js ssr=false</h2><a href="#up">⬆️</a> 
 <img src="https://user-images.githubusercontent.com/97892253/209491169-2f2d063a-a887-4559-ac9d-e7360590d770.png" alt="image" width={200} height={200}/>
+<h2 id="breakline">Git stash before pull save your code</h2><a href="#up">⬆️</a> 
+<div id="stash">
+Question:
+How i save file not commit before pull
 
+Answer:
+You can save your changes without committing them by using the command git stash. This command will save your changes to a new stash, without modifying the git repository's history.
+You can then use git pull to update the repository and retrieve any changes made by others. Once you've done that, you can apply your saved changes using the command git stash apply or git stash pop depending on what you want.
+Please be aware that if you are working on a branch and there are conflicts after pull, you have to resolve those first before applying stash or doing any other operation
+
+Question:
+git stash apply does change your previous change i have saved
+
+Answer:
+git stash apply is used to reapply the changes that were previously stashed. When you use this command, the changes from the stash are applied to your working directory. If the changes that you stashed were made to the same lines of code that have been modified in the meantime by other people or you, it can cause conflicts that need to be resolved.
+
+The git stash apply command will not change the stash itself, it will only change the state of your working directory. If you want to keep the stash intact you can use git stash apply command and if you already have the changes and you don't need the stash anymore you can use git stash drop to delete the stash.
+</div>
